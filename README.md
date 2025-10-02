@@ -26,10 +26,10 @@ Cada tarefa possui os seguintes campos:
 
 ### Passos para rodar a aplicação
 
-- Baixe e faça a instação do MongoDB
+- Baixe e faça a instalação do MongoDB
 - Execute o MongoDB como um serviço
 - Clone esse repositório
-- importe o repositório clonado em alguma IDE que aceite Java e Spring Boot
+- Importe o repositório clonado em alguma IDE que aceite Java e Spring Boot
 - Execute a aplicação
 
 ### Endpoints
